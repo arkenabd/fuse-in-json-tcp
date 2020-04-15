@@ -6,9 +6,6 @@ public class Basic {
 	private String tid;
 	private String remark;
 
-	public Basic() {
-	}
-
 	public String getRef() {
 		return ref;
 	}

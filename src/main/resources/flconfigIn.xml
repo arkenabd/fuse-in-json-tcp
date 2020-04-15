@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!-- DTD can be pulled from the Jar or over the web -->
+<!DOCTYPE PZMAP SYSTEM	"flatpack.dtd" >
+<!--<!DOCTYPE PZMAP SYSTEM "http://flatpack.sourceforge.net/flatpack.dtd" 
+	> -->
+<PZMAP>
+	<COLUMN name="LENGTH" length="4" />
+	<COLUMN name="SWITCH_CODE" length="4" />
+	<COLUMN name="TRANSACTION_ID" length="20" />
+	<COLUMN name="CLIENT_ID" length="6" />
+	<COLUMN name="PROCESS_CODE" length="7" />
+	<COLUMN name="TIMESTAMP" length="19" />
+	<COLUMN name="CLIENT_ID" length="10" />
+	<COLUMN name="KEY" length="10" />
+	<COLUMN name="BRANCH_ID" length="4" />
+	<COLUMN name="COUNTER_ID" length="4" />
+	<COLUMN name="PRODUCT_TYPE" length="10" />
+	<COLUMN name="TRX_TYPE" length="10" />
+	<COLUMN name="DETAIL_TRX_ID" length="12" />
+	<COLUMN name="DETAIL_TOKEN" length="9" />
+	<COLUMN name="DETAIL_NO_HP" length="15" />
+	<COLUMN name="DETAIL_AMOUNT" length="17" />
+</PZMAP> 

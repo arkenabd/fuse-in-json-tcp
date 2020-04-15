@@ -1,7 +1,7 @@
 package com.json.netty.util;
 
 
-public class Ops {
+public class PojoTest {
 
 private Basic basic;
 private String ops;
